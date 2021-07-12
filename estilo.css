@@ -1,0 +1,39 @@
+body{
+    background-color: skyblue;
+}
+h1{
+    text-transform: uppercase;
+    color: green;
+}
+h2{
+    color: rgba(5,10,5,0.8);
+}
+h3{
+    color: rgba(5,10,5,0.8);
+    text-align: center;
+}
+p{
+    color: tomato;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+ul{
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+ol{
+    color:peru;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+.contacto{
+    color: darkslategray;
+    font-size: 10px;
+}
